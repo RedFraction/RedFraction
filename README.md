@@ -10,8 +10,8 @@
   <b>Additional languages:</b> Perl, 1C, Bash, JS
   <b>Databases:           </b> MySQL, H2, PostgreSQL, MongoDB, SQLite
   <b>Libs:                </b> Spring ( Boot, Security, Data ), Hibernate, JavaFX, Lombok, jSSC, jSch, JavaSimon,
-                        CheckStyle (w/ custom checks), MyBatis
-  <b>Other tech:          </b> Linux, Docker, Git, Percona, SSHFS, Apache, NGINX, Tomcat
+                        CheckStyle (w/ custom checks), MyBatis, EE, CXF
+  <b>Other tech:          </b> Linux, Docker, Git, Percona, SSHFS, Apache, NGINX, Tomcat, Cron, Maven/Gradle, rSync
 <b>rf@rSrv:~$ <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="1" height="18" /></b>
 </pre>
 
