@@ -3,7 +3,7 @@
 
 ### Stack
 <pre>
-<b>rf@rSrv:~$</b> cat RedFraction.inf | grep -P "specs"
+<b>rf@rSrv:~$</b> cat RedFraction.inf | grep -P "skils"
   <b>Main Role:           </b> Software Developer
   <b>Practice area:       </b> Web, CRM/ERP-Systems
   <b>Main language:       </b> Java
