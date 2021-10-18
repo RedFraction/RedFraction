@@ -20,3 +20,6 @@
 - [Telegram](https://t.me/RedFraction)
 - [Personal mail](mailto:red.fraction.1998@gmail.com)
 - [For questions about work](mailto:work@x-red.dev)
+
+### Other:
+ - [Habr posts](https://habr.com/ru/users/redfraction/posts/)
