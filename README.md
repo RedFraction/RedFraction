@@ -5,7 +5,7 @@
 <pre>
 <b>rf@rSrv:~$</b> cat RedFraction.inf | grep -P "skils"
   <b>Main Role:           </b> Software Developer
-  <b>Practice area:       </b> Web, CRM/ERP-Systems
+  <b>Practice area:       </b> Web, CRM/ERP-Systems, Microservices
   <b>Main language:       </b> Java
   <b>Additional languages:</b> Perl, 1C, Bash, JS
   <b>Databases:           </b> MySQL, H2, PostgreSQL, MongoDB, SQLite
