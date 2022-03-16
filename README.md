@@ -15,11 +15,14 @@
 <b>rf@rSrv:~$ <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="1" height="18" /></b>
 </pre>
 
-### Contact with me:
+### Links:
 - [Personal site](https://x-red.dev)
+- [Contacts](https://x-red.dev/contacts/)
+- [CV - EN version](https://x-red.dev/about-me/) 
+- [CV - RU версия](https://x-red.dev/about-me/) 
+- [LinkedIn](https://www.linkedin.com/in/daniil-sidorenko-951a53234/)
 - [Telegram](https://t.me/RedFraction)
-- [Personal mail](mailto:red.fraction.1998@gmail.com)
-- [For questions about work](mailto:work@x-red.dev)
-
+- 
 ### Other:
- - [Habr posts](https://habr.com/ru/users/redfraction/posts/)
+- [Habr](https://habr.com/ru/users/redfraction/posts/)
+- [YT](https://www.youtube.com/channel/UCi9cY8e0GDKx2WwuZjYfEhQ)
