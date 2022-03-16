@@ -22,7 +22,7 @@
 - [CV - RU версия](https://x-red.dev/about-me/) 
 - [LinkedIn](https://www.linkedin.com/in/daniil-sidorenko-951a53234/)
 - [Telegram](https://t.me/RedFraction)
-- 
+
 ### Other:
 - [Habr](https://habr.com/ru/users/redfraction/posts/)
 - [YT](https://www.youtube.com/channel/UCi9cY8e0GDKx2WwuZjYfEhQ)
