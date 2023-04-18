@@ -4,23 +4,18 @@
 ### Stack
 <pre>
 <b>rf@rSrv:~$</b> cat RedFraction.inf | grep -P "skils"
-  <b>Main Role:           </b> Software Developer
+  <b>Main Role:           </b> Software Developer, Team Lead
   <b>Practice area:       </b> Web, CRM/ERP-Systems, Microservices
   <b>Main language:       </b> Java
-  <b>Additional languages:</b> Perl, 1C, Bash, JS
+  <b>Additional languages:</b> Perl, 1C, Bash, JS (Vannila + jQuery)
   <b>Databases:           </b> MySQL, H2, PostgreSQL, MongoDB, SQLite
   <b>Libs:                </b> Spring ( Boot, Security, Data ), Hibernate, JavaFX, Lombok, jSSC, jSch, JavaSimon,
                         CheckStyle (w/ custom checks), MyBatis, EE, CXF
-  <b>Other tech:          </b> Linux, Docker, Git, Percona, SSHFS, Apache, NGINX, Tomcat, Cron, Maven/Gradle, rSync
+  <b>Other tech:          </b> Linux, Docker, Git, Percona, Jasper Reports, Saiku OLAP, SSHFS, Apache, NGINX, Tomcat, Cron, Maven/Gradle, rSync,
 <b>rf@rSrv:~$ <img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="1" height="18" /></b>
 </pre>
 
 ### Links:
-[comment]: <> - [Personal site](https://x-red.dev)
-[comment]: <> - [Contacts](https://x-red.dev/contacts/)
-[comment]: <> - [CV - EN version](https://x-red.dev/about-me/) 
-[comment]: <> - [CV - RU версия](https://x-red.dev/about-me/) 
-[comment]: <> - [LinkedIn](https://www.linkedin.com/in/daniil-sidorenko-951a53234/)
 - [Telegram](https://t.me/RedFraction)
 
 ### Other:
