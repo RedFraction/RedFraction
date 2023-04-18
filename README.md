@@ -16,11 +16,11 @@
 </pre>
 
 ### Links:
-- [Personal site](https://x-red.dev)
-- [Contacts](https://x-red.dev/contacts/)
-- [CV - EN version](https://x-red.dev/about-me/) 
-- [CV - RU версия](https://x-red.dev/about-me/) 
-- [LinkedIn](https://www.linkedin.com/in/daniil-sidorenko-951a53234/)
+[comment]: <> - [Personal site](https://x-red.dev)
+[comment]: <> - [Contacts](https://x-red.dev/contacts/)
+[comment]: <> - [CV - EN version](https://x-red.dev/about-me/) 
+[comment]: <> - [CV - RU версия](https://x-red.dev/about-me/) 
+[comment]: <> - [LinkedIn](https://www.linkedin.com/in/daniil-sidorenko-951a53234/)
 - [Telegram](https://t.me/RedFraction)
 
 ### Other:
