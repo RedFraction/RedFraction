@@ -13,9 +13,6 @@
 <b>rf@rSrv:~$ </b><img align="top" src="https://user-images.githubusercontent.com/2514771/93036534-5fbd6480-f5fd-11ea-8a13-58ef04796c17.gif" alt="cursor" width="2" height="16" />
 </pre>
 
-### Links:
-- [Telegram](https://t.me/RedFraction)
-
 ### Other:
 - [Habr](https://habr.com/ru/users/redfraction/posts/)
 - [YT](https://www.youtube.com/channel/UCi9cY8e0GDKx2WwuZjYfEhQ)
