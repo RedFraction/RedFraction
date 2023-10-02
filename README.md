@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/9009868/114011194-a14d7f80-986d-11eb-9d0e-d51c1977bf9b.png)
 <pre>
-<b>rf@rSrv:~$</b> less RedFraction.inf
+<b>rf@rSrv:~$</b> cat RedFraction.inf
   <b>Main Role:           </b> Software Developer, Team Lead
   <b>Practice area:       </b> Web, CRM/ERP-Systems, Microservices
   <b>Main language:       </b> Java
