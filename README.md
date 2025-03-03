@@ -4,7 +4,7 @@
   <b>Main Role:           </b> Software Developer, Team Lead
   <b>Practice area:       </b> Web, CRM/ERP-Systems, Microservices
   <b>Main language:       </b> Java
-  <b>Additional languages:</b> Perl, 1C, Bash, JS (Vannila + jQuery), Python, C++
+  <b>Additional languages:</b> Groovy, Perl, 1C, Bash, JS (Vannila + jQuery), Python, C++
   <b>Databases:           </b> MySQL, H2, PostgreSQL, MongoDB, SQLite, RedDataBase / Firebird
   <b>Libs:                </b> Spring ( Boot, Security, Data ), Hibernate, JavaFX, Lombok, jSSC, jSch, JavaSimon,
                         CheckStyle (w/ custom checks), MyBatis, EE, CXF, NCore
